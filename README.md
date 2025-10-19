@@ -15,7 +15,7 @@
 
 
 ## 2. Реализация программы ##
-<img width="330" height="354" alt="Снимок экрана 2025-10-06 в 10 52 15 AM" src="https://github.com/user-attachments/assets/5e04b092-e9eb-4e1c-b108-32d58d551e4f" />
+<img width="573" height="418" alt="image" src="https://github.com/user-attachments/assets/a568e090-3304-4615-abb3-04a66766ade0" />
 
 
 ## 3. Результаты работы программы ##
