@@ -15,11 +15,11 @@
 
 
 ## 2. Реализация программы ##
-<img width="333" height="300" alt="image" src="https://github.com/user-attachments/assets/a568e090-3304-4615-abb3-04a66766ade0" />
+<img width="360" height="300" alt="image" src="https://github.com/user-attachments/assets/a568e090-3304-4615-abb3-04a66766ade0" />
 
 
 ## 3. Результаты работы программы ##
-<img width="480" height="182" alt="image" src="https://github.com/user-attachments/assets/6b9e3889-9614-404f-9258-aa877b914b79" />
+<img width="320" height="182" alt="image" src="https://github.com/user-attachments/assets/6b9e3889-9614-404f-9258-aa877b914b79" />
 
 
 ## 4. Информация о разработчике ##
