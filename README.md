@@ -15,7 +15,7 @@
 
 
 ## 2. Реализация программы ##
-<img width="573" height="418" alt="image" src="https://github.com/user-attachments/assets/a568e090-3304-4615-abb3-04a66766ade0" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a568e090-3304-4615-abb3-04a66766ade0" />
 
 
 ## 3. Результаты работы программы ##
