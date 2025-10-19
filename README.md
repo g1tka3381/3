@@ -19,7 +19,7 @@
 
 
 ## 3. Результаты работы программы ##
-<img width="250" height="104" alt="Снимок экрана 2025-10-06 в 10 49 47 AM" src="https://github.com/user-attachments/assets/7e0a8465-ab8f-4c22-8d56-2c20b0ea532f" />
+<img width="333" height="300" alt="image" src="https://github.com/user-attachments/assets/083924ea-d853-4059-8581-5cf35ab49592" />
 
 ## 4. Информация о разработчике ##
 Кислов Андрей, бИПТ-252
