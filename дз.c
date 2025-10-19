@@ -11,9 +11,9 @@ int main()
     printf("Введите координаты второй точки (x2, y2): ");
     scanf("%lf %lf", &x2, &y2);
 
-    double distance = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+    double res = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 
-    printf("Расстояние между точками: %.2lf\n", distance);
+    printf("Расстояние между точками: %.2lf\n", res);
 
     return 0;
 }
